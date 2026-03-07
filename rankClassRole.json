@@ -46,7 +46,7 @@
       "roles": ["Augmenter", "Mechanic"]
     },
     {
-      "class": "Mechanic",
+      "class": "Forager",
 
       "roles": ["Animal Tamer", "Survivalist"]
     }
