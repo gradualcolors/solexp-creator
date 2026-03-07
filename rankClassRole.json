@@ -1,0 +1,54 @@
+{
+  "ranks": [
+    {
+      "rank": "Nameless"
+    },
+    {
+      "rank": "Skia"
+    },
+    {
+      "rank": "Moros"
+    },
+    {
+      "rank": "Kathodos"
+    },
+    {
+      "rank": "Eunoia"
+    },
+    {
+      "rank": "Kairos"
+    },
+    {
+      "rank": "Metanoia"
+    },
+    {
+      "rank": "Meraki"
+    }
+  ],
+  "classes": [
+    {
+      "class": "Guardian",
+      "roles": ["Shielder", "Berserker"]
+    },
+    {
+      "class": "Navigator",
+
+      "roles": ["Commander", "Sniper"]
+    },
+    {
+      "class": "Nurse",
+
+      "roles": ["Doctor", "Toxicologist"]
+    },
+    {
+      "class": "Artisan",
+
+      "roles": ["Augmenter", "Mechanic"]
+    },
+    {
+      "class": "Mechanic",
+
+      "roles": ["Animal Tamer", "Survivalist"]
+    }
+  ]
+}
