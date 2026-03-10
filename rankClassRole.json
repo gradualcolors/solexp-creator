@@ -1,54 +1,85 @@
 {
   "ranks": [
     {
+      "num": 1,
       "rank": "Nameless"
     },
     {
+      "num": 2,
       "rank": "Skia"
     },
     {
+      "num": 3,
       "rank": "Moros"
     },
     {
+      "num": 4,
       "rank": "Kathodos"
     },
     {
+      "num": 5,
       "rank": "Eunoia"
     },
     {
+      "num": 6,
       "rank": "Kairos"
     },
     {
+      "num": 7,
       "rank": "Metanoia"
     },
     {
+      "num": 8,
       "rank": "Meraki"
     }
   ],
   "classes": [
     {
-      "class": "Guardian",
-      "roles": ["Shielder", "Berserker"]
+      "class": "Guardian"
     },
     {
-      "class": "Navigator",
-
-      "roles": ["Commander", "Sniper"]
+      "class": "Navigator"
     },
     {
-      "class": "Nurse",
-
-      "roles": ["Doctor", "Toxicologist"]
+      "class": "Nurse"
     },
     {
-      "class": "Artisan",
-
-      "roles": ["Augmenter", "Mechanic"]
+      "class": "Artisan"
     },
     {
-      "class": "Forager",
-
-      "roles": ["Animal Tamer", "Survivalist"]
+      "class": "Forager"
+    }
+  ],
+  "roles": [
+    {
+      "class": "Shielder"
+    },
+    {
+      "class": "Berserker"
+    },
+    {
+      "class": "Commander"
+    },
+    {
+      "class": "Sniper"
+    },
+    {
+      "class": "Doctor"
+    },
+    {
+      "class": "Toxicologist"
+    },
+    {
+      "class": "Augmenter"
+    },
+    {
+      "class": "Mechanic"
+    },
+    {
+      "class": "Survivalist"
+    },
+    {
+      "class": "Tamer"
     }
   ]
 }
